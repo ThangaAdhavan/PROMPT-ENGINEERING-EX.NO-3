@@ -14,7 +14,6 @@ To write the prompts for these following prompt types and evaluate that using an
 3. Preceding Question Prompting
 
 4. Missing Word Prompting
-
 # Explanation 
 Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
 
@@ -31,9 +30,7 @@ Output:<br>
 2. They have lower operating and maintenance costs compared to petrol or diesel vehicles.<br>
 3. They improve energy efficiency and reduce dependence on fossil fuels.<br>
 _____________________________________________________________________________________________________________________________________________
-
 ## 2.Tabular Format Prompting:
-
 Prompt: "Compare and contrast AC and DC current in a table."<br>
 Output:<br>
 
@@ -47,8 +44,6 @@ Output:<br>
 | Usage             | Homes, offices, industries               | Electronic devices, charging systems   |
 | Conversion        | Easily converted to DC using rectifiers  | Can be converted to AC using inverters |<br>
 _______________________________________________________________________________________________________________________________________________
-
-
 Prompt: "Provide a table listing five programming languages, their paradigms, and one use case each."<br>
 Output:<br>
 
@@ -59,7 +54,6 @@ Output:<br>
 | C                    | Procedural                                | System and embedded programming            |
 | JavaScript           | Event-driven, Functional, Object-oriented | Web development (frontend and backend)     |
 | Haskell              | Functional                                | Academic research and complex computations |
-
 ________________________________________________________________________________________________________________________________________________
 
 ## 3. Preceding Question Prompting:
@@ -82,11 +76,5 @@ ________________________________________________________________________________
 Prompt: "In photosynthesis, plants absorb sunlight to produce ____."<br>
 Output: In photosynthesis, plants absorb sunlight to produce **glucose (food)**.<br>
 __________________________________________________________________________________________________________________________________________________
-
 # RESULT: 
 The various types of Prompts are executed successfully with generated the report.
-
-
-
-
-
