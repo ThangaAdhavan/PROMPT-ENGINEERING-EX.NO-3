@@ -72,6 +72,6 @@ Prompt: "The capital of France is ____."<br>
 Output: The capital of France is **Paris**.<br>
 __________________________________________________________________________________________________________________________________________________
 Prompt: "In photosynthesis, plants absorb sunlight to produce ____."<br>
-Output: In photosynthesis, plants absorb sunlight to produce **glucose (food)**.<br>
+Output: In photosynthesis, plants absorb sunlight to produce **glucose (food)**.
 # RESULT: 
 The various types of Prompts are executed successfully with generated the report.
