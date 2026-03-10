@@ -18,7 +18,6 @@ To write the prompts for these following prompt types and evaluate that using an
 Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
 
 # Prompts and their Explanations :
-
 ## 1.Straightforward Prompts:
 Prompt:"Define photosynthesis in one sentence."<br>
 Output:<br>
@@ -69,12 +68,10 @@ Vaccines work by training the body’s immune system to recognize and fight a sp
 In simple terms, a vaccine contains a weakened, killed, or harmless part of a germ. When it enters the body, the immune system learns to identify it and produces antibodies. If the real germ later infects the body, the immune system remembers it and can quickly destroy it, preventing the person from getting sick or making the illness much milder.<br>
 __________________________________________________________________________________________________________________________________________________
 ## 4. Missing Word Prompting:
-
 Prompt: "The capital of France is ____."<br>
 Output: The capital of France is **Paris**.<br>
 __________________________________________________________________________________________________________________________________________________
 Prompt: "In photosynthesis, plants absorb sunlight to produce ____."<br>
 Output: In photosynthesis, plants absorb sunlight to produce **glucose (food)**.<br>
-__________________________________________________________________________________________________________________________________________________
 # RESULT: 
 The various types of Prompts are executed successfully with generated the report.
