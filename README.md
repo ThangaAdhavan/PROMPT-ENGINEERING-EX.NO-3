@@ -54,7 +54,6 @@ Output:<br>
 | JavaScript           | Event-driven, Functional, Object-oriented | Web development (frontend and backend)     |
 | Haskell              | Functional                                | Academic research and complex computations |
 ________________________________________________________________________________________________________________________________________________
-
 ## 3. Preceding Question Prompting:
 
 Prompt:	"Why is climate change a global concern? Explain how greenhouse gases contribute to global warming."<br>
@@ -70,7 +69,6 @@ ________________________________________________________________________________
 ## 4. Missing Word Prompting:
 Prompt: "The capital of France is ____."<br>
 Output: The capital of France is **Paris**.<br>
-__________________________________________________________________________________________________________________________________________________
 Prompt: "In photosynthesis, plants absorb sunlight to produce ____."<br>
 Output: In photosynthesis, plants absorb sunlight to produce **glucose (food)**.
 # RESULT: 
